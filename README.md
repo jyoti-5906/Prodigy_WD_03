@@ -1,6 +1,6 @@
 # Prodigy_WD_03
 
-💫Tic Tac Toe Game
+## 💫Tic Tac Toe Game
 <img src="Screenshot 2025-06-06 000810.png" alt="Task Preview" style="width: 100%; border-radius: 10px;" />
 ✨ Hey there, I'm Jyoti! 🌸
 💻 A passionate web enthusiast, creative soul & code explorer from BCA 🎓
@@ -25,12 +25,12 @@ A clean, aesthetic, and responsive Tic Tac Toe game built from scratch using HTM
 
 ♿ Accessible design with ARIA roles for screen readers
 
-🔧 Tools Used
-HTML5
+## 🔧 Tools Used
+--->HTML5
 
-CSS3
+--->CSS3
 
-JavaScript (Vanilla)
+-->JavaScript 
 
 Google Fonts – Poppins
 
