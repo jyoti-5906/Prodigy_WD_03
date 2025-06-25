@@ -1,7 +1,7 @@
 # Prodigy_WD_03
 
 ## 💫Tic Tac Toe Game
-<img src="Screenshot 2025-06-25 171735.png" alt="Task Preview" style="width: 50%; border-radius: 10px;" />
+<img src="Screenshot 2025-06-25 171735.png" alt="Task Preview" style="width: 30%; border-radius: 30px;" />
 ✨ Hey there, I'm Jyoti! 
 💻 A passionate web enthusiast, creative soul & code explorer from BCA 🎓
 Currently diving deep into the world of Frontend Magic with every <div> and function() I write ✍️💡
